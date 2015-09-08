@@ -51,7 +51,6 @@ $(document).ready(function() {
 function search(type, code) {
 		
 		var limit = "myLimit";
-		recordsCache = new Array();
 		
 		searchRequest.term = $('#search').val();
 		searchRequest.searchType = type;
