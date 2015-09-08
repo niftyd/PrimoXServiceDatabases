@@ -2,7 +2,7 @@
 Changes required:
 Line 15: change to your Primo host.
 Line 16: change to your Primo institution.
-Line 53: change to your Primo limit.
+Line 53: change to your Primo subject limit (what you put in the MARC 692 $a field)
 Line 100: change facet_local5 to your Primo facet.
 
 
