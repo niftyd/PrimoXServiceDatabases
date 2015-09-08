@@ -9,6 +9,4 @@ http://flaviusmatis.github.io/simplePagination.js<br/>
 jquery-1.9.1.js<br/><br/>
 
 The configuration for this application requires access to, and knowledge of, the Primo Back Office.<br/>
-
 Please review the document DatabaseApplicationUsingPrimoXService.pdf for Alma/Primo setup.
-
